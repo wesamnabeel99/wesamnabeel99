@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for a position as **Android Developer**
 
-- 🌱 I have 1 year of experience **developing android apps android using Kotlin**
+- 🌱 I have 1 year of experience **developing android apps using Kotlin**
 
 - 🎯 I’m currently focusing on: **Android Jetpack, ⭐️ star the projects if you like it 🤩.**
 
