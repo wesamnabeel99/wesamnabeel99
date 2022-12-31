@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently looking for a position as **Android Developer**
 
-- 🌱 I have 1 year of experience **developing android apps using Kotlin**
+- 🌱 I have 1.5 years of experience **developing android apps using Kotlin**
 
-- 🎯 I’m currently focusing on: **Android Jetpack, ⭐️ star the projects if you like it 🤩.**
+- 🎯 I’m currently focusing on: **Jetpack Compose, Clean Architecture ⭐️ star the projects if you like it 🤩.**
 
 - 📫 How to reach me **wesamezio@gmail.com**
 
