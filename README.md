@@ -41,14 +41,14 @@ If you're interested in connecting or have a potential opportunity, drop me a li
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/wesamnabeel99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amnah-1099b71a3/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wesamnabeel99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/wesamnabeel99/](https://www.linkedin.com/in/wesamnabeel99/)" height="30" width="40" /></a>
 </p>
 
 
 <h3>📈 Statistics </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesamnabeel99&show_icons=true&locale=en&layout=compact" alt="amnah44" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesamnabeel99&show_icons=true&locale=en&layout=compact" alt="wesamnabeel99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesamnabeel99&show_icons=true&locale=en" alt="amnah44" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesamnabeel99&show_icons=true&locale=en" alt="wesamnabeel99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesamnabeel99&" alt="amnah44" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesamnabeel99&" alt="wesamnabeel99" /></p>
