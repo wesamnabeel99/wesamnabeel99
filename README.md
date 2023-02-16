@@ -21,12 +21,21 @@ If you like what you see, feel free to star ⭐ my projects!
 <h3>📈 Learning and Growing</h3>
 Continuous learning is a top priority for me, and I have plans to delve into Flutter and Dart in the near future.
 
+<h3>🧠 Problem Solver</h3>
+
+As an Android Developer, I have strong problem-solving skills and enjoy tackling complex problems. I regularly practice on platforms like LeetCode, HackerRank & CodeSignal to improve my skills. Whether it's optimizing an algorithm or fixing a bug, I'm always looking for new approaches to learn and try. I'm confident that my problem-solving skills and continuous learning will make me a valuable asset to any project or team.
+
+<a href="https://leetcode.com/wesamnabeel99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[https://leetcode.com/wesamnabeel99/]" height="60" width="70" /></a>
+<a href="https://www.hackerrank.com/wesamnabeel99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/wesamnabeel99" height="60" width="70" /></a>
+
+<h3>💻 Hardware Enthusiast</h3>
+I have a strong understanding of computer hardware and have built a computer from scratch, making me well-versed in both software and hardware aspects of computing.
+
+
 
 <h3>🎨 Graphics Designer</h3>
 In addition to my software development skills, I am also a skilled graphics designer, with a keen eye for aesthetics and user experience.
 
-<h3>💻 Hardware Enthusiast</h3>
-I have a strong understanding of computer hardware and have built a computer from scratch, making me well-versed in both software and hardware aspects of computing.
 
 <h3>⚡ Electrical Engineering Student</h3>
 I am currently studying Electrical Engineering, with a focus on developing a deeper understanding of the technology that powers the devices I work with every day.
@@ -37,12 +46,7 @@ I am a data-driven individual and enjoy tracking and collecting information abou
 <h3>📧 Connect with Me</h3>
 If you're interested in connecting or have a potential opportunity, drop me a line at wesamezio@gmail.com. or visit my LinkedIn account!
 
-
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/wesamnabeel99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/wesamnabeel99/](https://www.linkedin.com/in/wesamnabeel99/)" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/wesamnabeel99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/wesamnabeel99/](https://www.linkedin.com/in/wesamnabeel99/)" height="60" width="70" /></a>
 
 
 <h3>📈 Statistics </h3>
