@@ -22,8 +22,7 @@ If you like what you see, feel free to star ⭐ my projects!
 Continuous learning is a top priority for me, and I have plans to delve into Flutter and Dart in the near future.
 
 <h3>🧠 Problem Solver</h3>
-
-As an Android Developer, I have strong problem-solving skills and enjoy tackling complex problems. I regularly practice on platforms like LeetCode, HackerRank & CodeSignal to improve my skills. Whether it's optimizing an algorithm or fixing a bug, I'm always looking for new approaches to learn and try. I'm confident that my problem-solving skills and continuous learning will make me a valuable asset to any project or team.
+As an Android Developer, I possess strong problem-solving skills and thoroughly enjoy tackling complex challenges. I actively engage in practicing on platforms such as LeetCode, HackerRank, and CodeSignal to continuously enhance my abilities. With dedication and perseverance, I have successfully solved 200+ problems on LeetCode, demonstrating my proficiency in optimizing algorithms and resolving bugs.
 
 <a href="https://leetcode.com/wesamnabeel99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[https://leetcode.com/wesamnabeel99/]" height="60" width="70" /></a>
 <a href="https://www.hackerrank.com/wesamnabeel99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/wesamnabeel99" height="60" width="70" /></a>
